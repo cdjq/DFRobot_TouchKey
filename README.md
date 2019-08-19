@@ -5,7 +5,7 @@
 去，能牢固粘贴于机箱表面。你可以用它输入数字参数等信息，特别是对于LCD模块，GSM/GPRS模块等需要参数
 输入的模块。薄膜防水耐用，可经受几万次按压。
 
-![正反面svg效果图](https://github.com/cdjq/DFRobot_TouchKeyboard/blob/master/resources/images/TouchKeyboardsvg1.png)
+[正反面svg效果图](https://github.com/cdjq/DFRobot_TouchKeyboard/blob/master/resources/images/TouchKeyboardsvg1.png)
 
 ## 产品链接    www.dfrobot.com
     SKU：薄膜数字键盘

@@ -1,13 +1,13 @@
 /*!
- * @file DFRobot_Sensor.cpp
- * @brief 定义DFRobot_Sensor 类的基础结构，基础方法的实现
+ * @file DFRobot_TouchKeyboard.cpp
+ * @brief 定义键盘类的基础结构，基础方法的实现
  *
  * @copyright	Copyright (c) 2010 DFRobot Co.Ltd (http://www.dfrobot.com)
  * @licence     The MIT License (MIT)
- * @author [Ouki](ouki.wang@dfrobot.com)
+ * @author [John](yzm19971997@gmail.com)
  * @version  V1.0
- * @date  2019-07-13
- * @https://github.com/ouki-wang/DFRobot_Sensor
+ * @date  2019-08-19
+ * @https://github.com/cdjq/DFRobot_TouchKeyboard
  */
 
 #include <DFRobot_TouchKeyboard.h>

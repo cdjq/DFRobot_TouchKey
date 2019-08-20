@@ -1,17 +1,14 @@
 /*!
  * @file DFRobot_TouchKeyboard.h
- * @brief 定义DFRobot_Sensor 类的基础结构
- * @n 这是一个虚拟的传感器，IIC地址不可改变,不对应任何实物，可以通过IIC和SPI口来控制它，假设它有下面这些功能
- * @n 向寄存器0里写入数据，点亮不同颜色的LED灯
- * @n 从寄存器1里读出数据，高四位表示光线强度，低四位表示声音强度
- * @n 从寄存器2 bit0里写入数据，写1表示正常模式，写0表示低功耗模式
- * @n 从寄存器3 读取数据，读到的是芯片版本0xDF
+ * @brief 定义键盘类的基础结构
+ * @n 可以在串口中打印按键按键的值，最快1秒钟识别一次，可以自行更改时间
+ * @n 灵活的引脚插入方式，可以自定义
  * @copyright	Copyright (c) 2010 DFRobot Co.Ltd (http://www.dfrobot.com)
  * @licence     The MIT License (MIT)
- * @author [Ouki](ouki.wang@dfrobot.com)
+ * @author [John](yzm19971997@gmail.com)
  * @version  V1.0
- * @date  2019-07-13
- * @https://github.com/ouki-wang/DFRobot_Sensor
+ * @date  2019-08-19
+ * @https://github.com/cdjq/DFRobot_TouchKeyboard
  */
 
 #ifndef __DFRobot_TouchKeyboard_H__
